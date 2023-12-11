@@ -10,6 +10,7 @@ Project Members:
   
 **Usage**:
 * Clone the repository to your local machine.
+* Create and activate a python virtual environment.
 * Install the dependencies: pip install -r requirements.txt
 * Create a MySQL database and user.
 * Update the main.py file with your database connection information.
