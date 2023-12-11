@@ -6,7 +6,7 @@ Project Members:
 * Kingsley Xie
 
 **Features**:
-* **Content
+* **Content**: Content
   
 **Usage**:
 * Clone the repository to your local machine.
