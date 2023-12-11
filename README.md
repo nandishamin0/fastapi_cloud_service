@@ -15,5 +15,5 @@ Project Members:
 * Update the main.py file with your database connection information.
 * We used ORM for handling SQL queries you can also use your own method and make changes to routes/routes.py, models/models.py and main.py files accordingly
 * Run "main" using the below command:
-    uvicorn main:application --reload
+    * uvicorn main:application --reload
 * Access the API endpoints in your browser or with a client such as Postman.
