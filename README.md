@@ -4,9 +4,6 @@ Project Members:
 * Nandish Amin
 * Saloni Modi
 * Kingsley Xie
-
-**Features**:
-* **Content**: Content
   
 **Usage**:
 * Clone the repository to your local machine.
